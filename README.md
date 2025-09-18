@@ -28,9 +28,9 @@ This is a simple A* pathfinding program that finds the shortest path in a grid.
 ---
 
 ## How to Run
-1. Save the script as `astar_human.py`.  
+1. Save the script as `astar_pygame_console.py`.  
 2. Open terminal / command prompt.  
-3. Run:python astar_console+pygame
+3. Run:python astar_console_pygame
 4. Watch the console for step-by-step exploration.  
 5. Pygame window will show visited nodes and the final path.
 
