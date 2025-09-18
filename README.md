@@ -60,4 +60,13 @@ S . O . O
 - Adjust `time.sleep` in console or `clock.tick` in Pygame for faster/slower animation.  
 - Remove diagonals in `directions` to restrict movement to 4 directions only.
 
+---
+
+- """
+Note: All documentation, code explanation, and pseudocode for this assignment
+are provided in the PDF file 'Astar_Pathfinding_Documentation.pdf', which is
+uploaded in this GitHub repository.
+"""
+
+
 
