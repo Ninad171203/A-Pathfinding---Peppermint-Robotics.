@@ -43,7 +43,6 @@ Exploring node (1, 0)
 Final Path:
 S . O . O
 
-# . # .
 
 ---
 
