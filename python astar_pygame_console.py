@@ -4,11 +4,11 @@
 
 import heapq, pygame, sys, os, time, math, random # type: ignore
 
-# ---------- Heuristic ----------
+#  Heuristic 
 def heuristic(a,b):
     return math.sqrt((a[0]-b[0])**2 + (a[1]-b[1])**2)
 
-# ---------- A* Algorithm ----------
+#  A* Algorithm 
 def astar(grid,start,goal):
     rows,cols=len(grid),len(grid[0])
     open_list=[(0,start)]
@@ -39,7 +39,7 @@ def astar(grid,start,goal):
                     heapq.heappush(open_list,(new_g+heuristic((nr,nc),goal),(nr,nc)))
     return visited,[]
 
-# ---------- Console ----------
+#  Console 
 def animate_console(grid,start,goal,visited,path):
     display=[row[:] for row in grid]
     for idx,cell in enumerate(visited):
@@ -58,7 +58,7 @@ def animate_console(grid,start,goal,visited,path):
     print("\nLegend: S=Start, G=Goal, #=Obstacle, .=Visited, O=Path\n")
     time.sleep(1)
 
-# ---------- Pygame ----------
+#  Pygame 
 def animate_pygame(grid,start,goal,visited,path):
     pygame.init()
     rows,cols=len(grid),len(grid[0])
@@ -101,7 +101,7 @@ def animate_pygame(grid,start,goal,visited,path):
     pygame.quit()
     sys.exit()
 
-# ---------- Main ----------
+#  Main 
 if __name__=="__main__":
     grid=[
         [0,0,0,0,0],
@@ -117,3 +117,4 @@ if __name__=="__main__":
     else: print("No path exists!")
     animate_console(grid,start,goal,visited,path)
     animate_pygame(grid,start,goal,visited,path)
+
