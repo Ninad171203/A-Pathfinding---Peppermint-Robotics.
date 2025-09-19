@@ -64,7 +64,7 @@ def animate_pygame(grid,start,goal,visited,path):
     rows,cols=len(grid),len(grid[0])
     size=60
     screen=pygame.display.set_mode((cols*size,rows*size))
-    pygame.display.set_caption("A* Human-like Visualization")
+    pygame.display.set_caption("A* Visualization")
 
     colors={'white':(255,255,255),'black':(0,0,0),'green':(0,255,0),
             'red':(255,0,0),'blue':(0,0,255),'grey':(200,200,200)}
@@ -117,4 +117,5 @@ if __name__=="__main__":
     else: print("No path exists!")
     animate_console(grid,start,goal,visited,path)
     animate_pygame(grid,start,goal,visited,path)
+
 
