@@ -63,7 +63,9 @@ S . O . O
 ---
 Video Demonstration Link: https://www.loom.com/share/182e2ac58bd344d581c7739e1353a4af?sid=10d09978-be9a-439d-8e8a-f6ba86e96248
 <img width="1913" height="1012" alt="Screenshot 2025-09-20 195244" src="https://github.com/user-attachments/assets/76af7ba8-73a4-40f3-9449-dae06c01532d" />
-<img width="1913" height="1012" alt="Screenshot 2025-09-20 195244" src="https://github.com/user-attachments/assets/523cfee7-db8a-47cd-be5e-a5d87219dd94" />
+<img width="1715" height="895" alt="Screenshot 2025-09-20 195300" src="https://github.com/user-attachments/assets/9bc3b021-a029-45f5-b0b2-6bd4d527946c" />
+<img width="394" height="445" alt="Screenshot 2025-09-20 195309" src="https://github.com/user-attachments/assets/2b28cde6-73cd-4465-8061-e1389da7ceab" />
+
 
 
 ---
