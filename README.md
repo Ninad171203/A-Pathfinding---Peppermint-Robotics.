@@ -62,6 +62,8 @@ S . O . O
 
 ---
 Video Demonstration Link: https://www.loom.com/share/182e2ac58bd344d581c7739e1353a4af?sid=10d09978-be9a-439d-8e8a-f6ba86e96248
+<img width="1913" height="1012" alt="Screenshot 2025-09-20 195244" src="https://github.com/user-attachments/assets/76af7ba8-73a4-40f3-9449-dae06c01532d" />
+
 ---
 - """
 Note: All documentation, code explanation, and pseudocode for this assignment
