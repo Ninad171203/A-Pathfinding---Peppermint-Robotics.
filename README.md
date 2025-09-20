@@ -61,7 +61,8 @@ S . O . O
 - Remove diagonals in `directions` to restrict movement to 4 directions only.
 
 ---
-
+Video Demonstration Link: https://www.loom.com/share/182e2ac58bd344d581c7739e1353a4af?sid=10d09978-be9a-439d-8e8a-f6ba86e96248
+---
 - """
 Note: All documentation, code explanation, and pseudocode for this assignment
 are provided in the PDF file 'Astar_Pathfinding_Documentation.pdf', which is
